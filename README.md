@@ -1,6 +1,6 @@
 # 🚀 PromptPad — The Full-Stack Prompt Engineering Workspace
 
-*PromptPad* is a full-stack *Next.js* application built from scratch — a complete workspace for *prompt engineers, **AI creators, and **developers* who want to write, test, and analyze prompts in one place.
+**PromptPad** is a full-stack **Next.js** application built from scratch — a complete workspace for **prompt engineers**, **AI creators**, and **developers** who want to write, test, and analyze prompts in one place.
 
 This project was developed independently from the ground up — *idea → execution → UI/UX → database + authentication → debugging → final prototype*.
 
