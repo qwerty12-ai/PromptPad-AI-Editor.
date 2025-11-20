@@ -60,8 +60,8 @@ That’s why the only sign-in method right now is *GitHub OAuth*.
 
 ## 🧰 Future Improvements
 
-🔁 Multi-model support (GPT-5 Nano, Llama, Mistral, etc.)  
-🌐 Multi-auth providers (Google OAuth + Email Magic Link)  
+🔁 Multi-model support (Llama, Mistral, etc.)  
+🌐 Multi-auth providers (Google OAuth + Resend)  
 📈 Real-time analytics for latency & output metrics  
 🧱 Collaborative prompt editing  
 
